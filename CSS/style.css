@@ -40,8 +40,14 @@ header{
 }
 .scroll{
     width: 450px;
-    height: 330px;
+    height: 290px;
     overflow: scroll;
+}
+.call{
+    background-color: black;
+    color: cornsilk;
+    height: 30px;
+    width: 150px;
 }
 footer{
     position: relative;
